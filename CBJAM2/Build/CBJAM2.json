@@ -1,0 +1,16 @@
+{
+"companyName": "Loupystudio software",
+"productName": "Le petit chaperon gris",
+"productVersion": "0.1",
+"dataUrl": "CBJAM2.data.unityweb",
+"wasmCodeUrl": "CBJAM2.wasm.code.unityweb",
+"wasmFrameworkUrl": "CBJAM2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
